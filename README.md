@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mtchedlidze Guja
+- 👀 I’m interested in Web development using JavaScript and cloud platforms
+- 🌱 I’m currently learning Amazon Web Services
+- 💞️ I’m looking to collaborate on interesting Open source projects
+- 📫 How to reach me email: mchedlidzeguja@gmail.com telegram: https://t.me/cerberus1230
